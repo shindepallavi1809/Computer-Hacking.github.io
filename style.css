@@ -24,9 +24,7 @@
 }
 h1{
     font-size: 30px;
-
 }
-
 .square{
     height: 2px;
     width: 60px;
@@ -50,8 +48,7 @@ h1{
     border-radius: 100px;
     transition: 1s;
     background: transparent;
-    
-}
+    }
 p{
     font-size: 15px;
     line-height: 18px;
@@ -259,24 +256,20 @@ footer{
 	padding: 55px 50px;
 	margin-top: 80px;
 }
- 
 .footer-distributed .footer-left,
 .footer-distributed .footer-center,
 .footer-distributed .footer-right{
 	display: inline-block;
 	vertical-align: top;
 }
- 
 .footer-distributed .footer-left{
 	width: 40%;
 }
- 
 .footer-distributed h3{
 	color:  #ffffff;
 	font: normal 36px 'Cookie', cursive;
 	margin: 0;
 }
- 
 .footer-distributed h3 span{
 	color:  #fff;
 }
@@ -300,7 +293,6 @@ footer{
 .footer-distributed .footer-center{
 	width: 35%;
 }
- 
 .footer-distributed .footer-center i{
 	background-color:  #33383b;
 	color: #ffffff;
@@ -313,35 +305,29 @@ footer{
 	margin: 10px 15px;
 	vertical-align: middle;
 }
- 
 .footer-distributed .footer-center i.fa-envelope{
 	font-size: 17px;
 	line-height: 38px;
 }
- 
 .footer-distributed .footer-center p{
 	display: inline-block;
 	color: #ffffff;
 	vertical-align: middle;
 	margin:0;
 }
- 
 .footer-distributed .footer-center p span{
 	display:block;
 	font-weight: normal;
 	font-size:14px;
     line-height:2;
 }
- 
 .footer-distributed .footer-center p a{
 	color:  #fff;
 	text-decoration: none;
 }
- 
 .footer-distributed .footer-right{
 	width: 20%;
 }
- 
 .footer-distributed .footer-company-about{
 	line-height: 20px;
 	color:  #92999f;
@@ -349,7 +335,6 @@ footer{
 	font-weight: normal;
     margin: 0;
 }
- 
 .footer-distributed .footer-company-about span{
 	display: block;
 	color:  #ffffff;
@@ -357,11 +342,9 @@ footer{
 	font-weight: bold;
     margin-bottom: 20px;
 }
- 
 .footer-distributed .footer-icons{
 	margin-top: 25px;
 }
- 
 .footer-distributed .footer-icons a{
 	display: inline-block;
 	width: 35px;
@@ -369,25 +352,18 @@ footer{
 	cursor: pointer;
 	background-color:  #33383b;
 	border-radius: 2px;
- 
-	font-size: 20px;
+ 	font-size: 20px;
 	color: #ffffff;
 	text-align: center;
 	line-height: 35px;
- 
-	margin-right: 3px;
+ 	margin-right: 3px;
 	margin-bottom: 5px;
 }
- 
- 
 @media (max-width: 880px) {
- 
 	.footer-distributed{
 		font: bold 14px sans-serif;
-	
-	}
- 
-	.footer-distributed .footer-left,
+		}
+        .footer-distributed .footer-left,
 	.footer-distributed .footer-center,
 	.footer-distributed .footer-right{
 		display: block;
@@ -395,18 +371,14 @@ footer{
 		margin-bottom: 40px;
 		text-align: center;
 	}
- 
-	.footer-distributed .footer-center i{
+       .footer-distributed .footer-center i{
 		margin-left: 0;
 	}
 	.main {
 		line-height: normal;
 		font-size: auto;
 	}
- 
-}
-
-
+ }
 .social-icons{
     width: 50px;
     position: fixed;
@@ -421,7 +393,6 @@ footer{
     margin: 0 auto 20px;
     cursor: pointer;
 }
-
 @media only screen and (max-width: 770pxpx) {
     #header{
     background-image: none;
@@ -445,7 +416,6 @@ h1{
     right: 50px;
 }
 .common-btn{
-    
     padding:10px 16px;
 }
 .social-icons img{
@@ -456,7 +426,6 @@ h1{
    }
    .about-left-col .about-right-col{
     flex-basis: 100%;
-    cursor: pointer;
 }
 .about-text{
     margin: 50px 50px 0;
@@ -482,11 +451,11 @@ h1{
 .contact-right-col{
     margin-top: 50px;
 }
-.footer-left-col, .footer-right-col{
+/*.footer-left-col, .footer-right-col{
     flex-basis: 100%;
   }
   .link-title{
       flex-basis: 50%;
       margin-bottom: 30px;
   }
-}
+}*/
