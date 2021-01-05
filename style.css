@@ -424,7 +424,7 @@ h1{
     cursor: pointer;
     
    }
-   .about-left-col, .about-right-col{
+.about-left-col, .about-right-col{
     flex-basis: 100%;
 }
 .about-text{
