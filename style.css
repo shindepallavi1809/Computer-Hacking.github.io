@@ -416,7 +416,7 @@ h1{
     right: 50px;
 }
 .common-btn{
-    padding:10px 16px;
+    padding: 10px 16px;
 }
 .social-icons img{
     width: 14px;
@@ -424,7 +424,7 @@ h1{
     cursor: pointer;
     
    }
-   .about-left-col .about-right-col{
+   .about-left-col, .about-right-col{
     flex-basis: 100%;
 }
 .about-text{
